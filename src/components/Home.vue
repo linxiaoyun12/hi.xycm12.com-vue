@@ -463,12 +463,10 @@ li {
 .link1 {
   width: 16.6%;
   text-align: center;
-  // height: 35px;
-  // line-height: 35px;
   display: inline-block;
 }
 
-.tools .link1 {
+.tools {
   margin-bottom: 20px;
 }
 

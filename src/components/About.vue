@@ -1,7 +1,7 @@
 <template>    
     <div id="about">    
         <h2>关于hi.xycm12.com/vue</h2>
-       <p>hi.xycm12.com/vue是利用Vue.js和Element-UI框架编写的一个导航网站（Beta版），页面风格延续了hi.xycm12.com，增加了修改链接的功能。部分功能暂不支持在IE浏览器上使用。
+       <p>hi.xycm12.com/vue是利用Vue.js和Element-UI框架编写的一个导航网站（Beta版），页面风格延续了hi.xycm12.com，增加了修改链接的功能。部分功能暂不支持在IE 9浏览器上使用。
            
        </p>
         <p>特点：</p>
