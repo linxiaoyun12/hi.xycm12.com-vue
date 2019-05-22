@@ -13,9 +13,10 @@ Vue.use(Router)
 
 
 export default new Router({
+  mode: "history",
   routes: [
-    { path: '/home', name: 'Home', component: Home },
+    { path: '/', name: 'Home', component: Home },
     { path: '/about', name: 'About', component: About },
-    { path: '*', redirect: '/home' }   /*默认跳转路由*/
+    // { path: '*', redirect: '/home' }   /*默认跳转路由*/
   ]
 })
